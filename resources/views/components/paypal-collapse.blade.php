@@ -1,0 +1,1 @@
+<small>You will be redirected to paypal page</small>
